@@ -6,7 +6,5 @@ Key features:
 
    Fractional step method (Chorin’s projection) for pressure-velocity coupling.
 
-   Suitable for academic and educational purposes in CFD.
-
    Easily customizable boundary conditions and solver parameters.
 
